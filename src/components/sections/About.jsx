@@ -9,7 +9,7 @@ const About = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           {/* Kolom Kiri: Foto / Visual (Slide from Left) */}
-          <motion.div 
+          <motion.div
             initial={{ opacity: 0, x: -80 }}
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 2, ease: "easeOut" }}
@@ -54,7 +54,7 @@ const About = () => {
               <h3 className="text-3xl sm:text-4xl lg:text-6xl font-black tracking-tight text-white mb-6 leading-[1.1]">
                 Membangun Web, Mewujudkan <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-400 to-gray-600">Ide.</span>
               </h3>
-              
+
               <div className="space-y-4 text-gray-400 text-base leading-relaxed">
                 <p>
                   Halo! Saya <span className="text-gray-200 font-semibold">Muhammad Alief Wardana</span>, seorang Frontend Developer yang antusias dalam menciptakan antarmuka web yang tidak hanya indah dipandang, tetapi juga intuitif dan fungsional.
@@ -70,7 +70,7 @@ const About = () => {
               {/* Stats atau Info Tambahan */}
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 mt-10 pt-8 border-t border-gray-800/50">
                 <div>
-                  <h4 className="text-4xl font-black text-white">2+</h4>
+                  <h4 className="text-4xl font-black text-white">1+</h4>
                   <p className="text-sm text-gray-500 font-mono mt-1">Years Experience</p>
                 </div>
                 <div>
