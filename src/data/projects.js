@@ -130,5 +130,30 @@ export const projects = [
     ],
     liveLink: "#",
     githubLink: null
+  },
+  {
+    id: 8,
+    title: "Wismanaker",
+    category: "Website",
+    description: "Situs web resmi sistem pemesanan (booking) villa yang dikelola oleh Kementerian Ketenagakerjaan (Kemnaker). Dibangun untuk mempermudah proses reservasi fasilitas penginapan secara online dengan antarmuka yang bersih dan mudah digunakan.",
+    image: "/project-wismanaker.png",
+    techStack: [
+      "Laravel",
+      "PHP",
+      "Composer",
+      "Tailwind CSS",
+      "Vite",
+      "HTML5 (Blade)",
+      "JavaScript (ES6+)",
+      "MySQL"
+    ],
+    keyFeatures: [
+      "Sistem Booking & Reservasi Villa",
+      "Manajemen Ketersediaan Kamar",
+      "Dasbor Kelola Penginapan Kemnaker",
+      "Desain UI Responsif & Modern"
+    ],
+    liveLink: "#",
+    githubLink: null
   }
 ];
