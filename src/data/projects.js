@@ -79,7 +79,7 @@ export const projects = [
     title: "AudioBook",
     category: "Website",
     description: "Pembelajaran yang di lakukan secara online yang di khususkan untuk SD kelas 5.",
-    image: "/project-web-2.png",
+    image: "/audiobook.png",
     techStack: [
       "Laravel",
       "PHP",
