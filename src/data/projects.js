@@ -76,7 +76,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Belajar Online",
+    title: "AudioBook",
     category: "Website",
     description: "Pembelajaran yang di lakukan secara online yang di khususkan untuk SD kelas 5.",
     image: "/project-web-2.png",
@@ -96,7 +96,7 @@ export const projects = [
       "Fitur Evaluasi Kuis Interaktif",
       "Desain UI/UX & Animasi yang Unik"
     ],
-    liveLink: "#",
+    liveLink: "https://audiobook.my.id/",
     githubLink: "https://github.com/Alifwrdhaaa/Belajar-Online.git"
   },
   {
