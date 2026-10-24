@@ -109,7 +109,7 @@ const Hero = () => {
             {/* Action Buttons */}
             <motion.div variants={itemVariants} className="flex flex-col sm:flex-row flex-wrap gap-4 mt-8 pointer-events-auto w-full sm:w-fit">
               <a 
-                href="/CV%20Muhammad%20Alief%20Wardana.pdf" 
+                href="/CV_IT%20Support(Muhammad%20Alief%20wardana).pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto text-center px-6 py-3 rounded-full bg-white text-black font-semibold text-sm transition-all duration-300 hover:scale-105 hover:bg-gray-200 hover:shadow-[0_0_30px_rgba(255,255,255,0.6)] active:scale-95 shadow-[0_0_15px_rgba(255,255,255,0.2)]"
